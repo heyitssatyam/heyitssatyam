@@ -1,4 +1,5 @@
-(https://imgur.com/ssER3lc.png) Hi there 👋
+[![MasterHead](https://imgur.com/ssER3lc.png) 
+Hi there 👋
 
 <!--
 **heyitssatyam/heyitssatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
