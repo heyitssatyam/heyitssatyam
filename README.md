@@ -1,5 +1,4 @@
-### (![background](https://github.com/heyitssatyam/heyitssatyam/assets/119681503/9105e48e-73d7-4f30-9b59-a3977a941a43)
-) Hi there 👋
+### (https://imgur.com/ssER3lc.jpg) Hi there 👋
 
 <!--
 **heyitssatyam/heyitssatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
