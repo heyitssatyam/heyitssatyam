@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/ssER3lc.png)]
+![MasterHead](https://imgur.com/ssER3lc.png)
 Hi there 👋
 
 <!--
